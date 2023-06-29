@@ -2,7 +2,7 @@
     <section class="introduction">
         <div class="containerB">
             <div class="boxB col1">
-                <img src="../../assets/banner.png" class="imgBanner" alt="Remodeling a house view on a laptop">
+<!--                <img src="../../assets/banner.png" class="imgBanner" alt="Remodeling a house view on a laptop">-->
             </div>
             <div class="boxC col2">
                 <h1>Have a comfortable <span class="green">life!</span> </h1>
@@ -27,7 +27,7 @@
                 <Card>
                     <template #footer class="text-center"	> AREA </template>
                     <template #content>
-                        <img src="src/assets/area_card.png" class="imgArea" alt="Remodeling a particular area of your house">
+<!--                        <img src="src/assets/area_card.png" class="imgArea" alt="Remodeling a particular area of your house">-->
                     </template>
                 </Card>
             </div>
@@ -35,7 +35,7 @@
                 <Card>
                     <template #footer > ROOM </template>
                     <template #content >
-                        <img src="src/assets/room_card.png" class="imgRoom" alt="Remodeling a house view on a laptop">
+<!--                        <img src="src/assets/room_card.png" class="imgRoom" alt="Remodeling a house view on a laptop">-->
 
                     </template>
                 </Card>
@@ -44,7 +44,7 @@
                 <Card>
                     <template #footer > SERVICE </template>
                     <template #content>
-                        <img src="@/assets/service_card.png" class="imgService" alt="Service">
+<!--                        <img src="@/assets/service_card.png" class="imgService" alt="Service">-->
                     </template>
                 </Card>
             </div>
